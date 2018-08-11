@@ -11,8 +11,8 @@ namespace MaximumLengthDifference
                 "hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii",
                 "dvvvwz"
             };
-            var s2 = new String[] { "cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww" };
-            //string[] s2 =new string[5];
+            //var s2 = new String[] { "cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww" };
+            string[] s2 =new string[0];
             MaxDiffLength.Mxdiflg(s1, s2);
         }
     }
