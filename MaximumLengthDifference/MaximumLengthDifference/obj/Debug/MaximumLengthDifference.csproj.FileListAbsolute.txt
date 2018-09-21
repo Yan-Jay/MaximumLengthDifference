@@ -5,3 +5,10 @@ C:\Users\jason.huang22\Documents\MaximumLengthDifference\MaximumLengthDifference
 C:\Users\jason.huang22\Documents\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.csproj.CoreCompileInputs.cache
 C:\Users\jason.huang22\Documents\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.exe
 C:\Users\jason.huang22\Documents\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.pdb
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\bin\Debug\MaximumLengthDifference.exe.config
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\bin\Debug\MaximumLengthDifference.exe
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\bin\Debug\MaximumLengthDifference.pdb
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.csprojAssemblyReference.cache
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.csproj.CoreCompileInputs.cache
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.exe
+C:\Users\jason.huang22\Documents\Source Tree\MaximumLengthDifference\MaximumLengthDifference\MaximumLengthDifference\obj\Debug\MaximumLengthDifference.pdb

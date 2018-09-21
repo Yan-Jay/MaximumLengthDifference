@@ -19,21 +19,21 @@ namespace MaximumLengthDifference.Tests
             Assert.AreEqual(13, MaxDiffLength.Mxdiflg(s1, s2));
         }
         [TestMethod()]
-        public void MxdiflgTest2()
+        public void OppositeMxdiflgTest()
         {
             string[] s2 = new string[] { "hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz" };
             string[] s1 = new string[] { "cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww" };
             Assert.AreEqual(13, MaxDiffLength.Mxdiflg(s1, s2));
         }
         [TestMethod()]
-        public void MxdiflgTest3()
+        public void MxdiflgTestOneArrayisNullAndHas5Length()
         {
             string[] s1 = new string[] { "hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz" };
             string[] s2 = new string[5] ;
             Assert.AreEqual(-1, MaxDiffLength.Mxdiflg(s1, s2));
         }
         [TestMethod()]
-        public void MxdiflgTest4()
+        public void MxdiflgTestOneArrayisNullAndLengthis0()
         {
             string[] s1 = new string[] { "hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz" };
             string[] s2 = new string[0];
